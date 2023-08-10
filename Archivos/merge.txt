@@ -1,0 +1,1 @@
+Ahora se puede hacer commit y subir la carpeta porque creamos un archivo dentro de esta.
