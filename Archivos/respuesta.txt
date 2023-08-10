@@ -1,0 +1,1 @@
+Cuando una carpeta esta vacia git no la lee 
